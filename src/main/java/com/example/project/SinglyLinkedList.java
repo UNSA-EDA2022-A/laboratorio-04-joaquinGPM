@@ -100,6 +100,10 @@ public class SinglyLinkedList<T> {
 
     // Elimina aquellos nodos de la lista que esten duplicados
     public void deleteDuplicates() {
+          if (isEmpty())
+            return null;
+        while (Node !=null){
+        }
 
     }
 
